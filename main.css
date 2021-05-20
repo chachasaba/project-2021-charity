@@ -1,0 +1,26 @@
+body{
+	--color-primary:#009579;
+	--color-primary-dark:#007f67;
+	--color-secondary:#252cba;
+	--color-error:red;
+		--color-success:green;
+		border-radius: 4px;
+		margin: 0;
+		height: 100vh;
+		display: flex;
+		align-items: center;
+		justify-content:center;
+		font-size: 18px;
+		background:url(animated.mp4);
+		background-size: cover;
+
+}
+.video-background
+{
+	position:top;
+	right: 0;
+	bottom:0;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	
